@@ -1,0 +1,15 @@
+body {
+    background-color: #cccccc;
+}
+
+.main-title {
+    color: rgb(67, 172, 122);
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 0, 0);
+}
+
+.detail-content {
+    color: rgb(243, 25, 255);
+    text-decoration: underline;
+    text-decoration-color: rgb(204, 75, 135);
+}
